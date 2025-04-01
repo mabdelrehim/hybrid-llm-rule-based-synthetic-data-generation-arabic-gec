@@ -1,0 +1,20 @@
+torch
+transformers
+datasets
+accelerate
+wandb
+camel-tools
+editdistance
+pyarabic
+sentencepiece
+evaluate
+huggingface-hub 
+sacrebleu
+wandb
+ipykernel
+ipywidgets
+trl
+peft
+# flash-attn
+pyyaml
+openai
