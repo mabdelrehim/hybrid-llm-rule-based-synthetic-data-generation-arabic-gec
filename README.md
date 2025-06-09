@@ -55,7 +55,7 @@ note: `suffix q: experiments on qalb-15 and suffix qz: experiments on qalb-15 + 
 
 Note: you will need to change the paths in the scripts to the appropriate paths
 
-You can download ready to use checkpoints and datasets from (here)[] (download link under preparation)
+You can download ready to use checkpoints and datasets from (here)[https://drive.google.com/file/d/1Am1VwfX-XcwF3VU3USqVxVQFyQaIVGNf/view?usp=sharing] 
 
 in the download you'll find
 
